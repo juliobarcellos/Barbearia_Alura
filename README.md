@@ -1,2 +1,2 @@
 # Barbearia_Alura
-Projeto criado durante a formação Front-End da Alura
+Projeto de site básico para uma barbearia elaborado durante o curso de HTML5 e CSS da Alura
